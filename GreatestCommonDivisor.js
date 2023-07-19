@@ -16,4 +16,4 @@ const GreatestCommonDivisor =(num1,num2)=>{
     
       
 
-console.log(GreatestCommonDivisor(8,16));
+console.log(GreatestCommonDivisor(27,9));
